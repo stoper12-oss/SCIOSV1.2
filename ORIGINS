@@ -1,0 +1,16 @@
+It started with a simple observation.
+People were using AI bots to trade crypto — most of them unpredictable, overfitted, or just plain dumb. Watching those systems fail at understanding real-world behavior sparked a question: could an AI system be built that actually learns, adapts, and improves beyond its initial scope?
+
+That question became a project.
+
+The first version of sciOS began as a lightweight trading bot designed to analyze blockchain data, react to market signals, and self-optimize using reinforcement learning. It worked, but the deeper it went, the more it grew beyond trading. Every new improvement — better data handling, smarter inference, automated system control — pushed the boundaries until the trading component became just one module in something larger.
+
+Six months of nonstop iteration later, sciOS had evolved into a modular, AI-driven operating environment.
+Not a product, not a gimmick — a framework for adaptive systems. Where most trading bots stop at price predictions, sciOS abstracts learning itself, giving it the potential to handle not just markets, but any domain where intelligent feedback loops matter.
+
+It’s been built from the ground up by Willis Hartin — designed, coded, trained, tested, and reworked by hand. The original goal was to beat existing AI traders. The new goal is bigger: to create an intelligent, extensible system capable of managing data, reasoning, and control at scale.
+
+sciOS isn’t a toy or a trend project. It’s the result of persistence, experimentation, and an unwillingness to settle for what everyone else was doing.
+
+Six months in — this is what it’s become.
+And it’s still evolving.
