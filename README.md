@@ -102,5 +102,5 @@ For general questions or partnership discussions, please reach out via email.
 
 ```
 
-[Catch the Quantum Wave... Password: spinor](https://pulsr.co.uk/spinor.html)
+
 ```
